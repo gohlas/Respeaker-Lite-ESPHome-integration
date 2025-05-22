@@ -549,7 +549,8 @@ binary_sensor:
 light:
   - platform: esp32_rmt_led_strip
     id: led_internal
-    internal: true
+    internal: false
+    name: "LED"
     rgb_order: GRB
     pin: GPIO1
     num_leds: 1
