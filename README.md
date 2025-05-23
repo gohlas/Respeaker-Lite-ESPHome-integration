@@ -1,5 +1,4 @@
 
-
 ## What is it
 This repository contains example code to integrate Seeed Respeaker Lite Voice Kit (with XIAO ESP32-S3 on board) with ESPHome.
 I'm thankful for continuous help of ESPHome team and Seeed developers, that let me put this thing together. 
